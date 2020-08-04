@@ -16,5 +16,5 @@ composer install
 
 ### Made By Dafids
 [twitter](https://twitter.com/youglh)
-[twitter](https://twitter.com/youglh)
+
 [email](mailto:dafids321@gmail.com)
