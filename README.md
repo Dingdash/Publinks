@@ -15,4 +15,4 @@ composer install
 ```
 
 ### Made By Dafids
-[twitter@dafids24] https://twitter.com/youglh
+[twitter](https://twitter.com/youglh)
