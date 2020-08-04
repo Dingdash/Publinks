@@ -1,0 +1,55 @@
+body,html{
+    padding:0;
+    margin:0;
+    
+}
+.num{
+  border-radius: 25px;
+  background-color: black;
+  padding: 1px 3px;
+  font-size: 10px;
+  color:white;
+  margin-top: -10px;
+  position: absolute; /* Position the badge within the relatively positioned button */
+  top: 0;
+  right: 0;
+  
+}
+a:hover{
+    color: white;
+}
+.main-grid{
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: 200px 1fr;
+}
+aside{
+    background-color: #213e48;
+}
+main{
+    margin-left: 20px;
+    
+    
+}
+.cards-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+.card{
+    border: 1px solid #d3d3d3;
+  border-radius: .25rem;
+}
+.bg-img{
+    background-size: cover;
+    min-height: 180px;
+    background-position: center;
+    background-color: #ccc;
+}
+.content {
+    padding: 15px;
+  }
+  .custom label {
+	float: left;
+	margin: 0 5px 0;
+}
